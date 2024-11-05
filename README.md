@@ -25,6 +25,7 @@
 ## 直接使用整合包
 我们已制作相应版本的软件windows整合包，下载解压缩后，运行 myshudan.exe 可直接打开软件使用。  
 使用整合包，无需环境部署。  
+整合包  <https://github.com/kjzysjk/myshudan/releases/download/v1.10/myshudan_v1.10.7z>  
 
 **不论是代码开发还是直接使用整合包，电脑必须安装有office或wps。**  
 
