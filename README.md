@@ -40,3 +40,6 @@ ffmpeg-concat是ffmpeg-gl-transition的另一个衍生物，
 作者在寻遍全网也找不到已编译ffmpeg-gl-transition的ffmpeg.exe，自己也在尝试编译ffmpeg.exe中添加ffmpeg-gl-transition遭遇数次失败。  
 作者在尝试使用cv opengl等方式来实现同样的效果，方便集成到软件中，减少软件复杂度。  
 
+## 声明
+作者水平有限，不完美之处敬请包容。  
+仅供个人学习研究，软件不得用于其它用途。  
