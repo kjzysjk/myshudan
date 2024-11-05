@@ -3,7 +3,7 @@
 这个工具能够把word文档或pdf文档生成视频，文档中的每一页等同于一个视频画面，每个画面的切换使用翻书特效，因此整个文档视频就像在读一本书一样。  
 软件支持给视频添加BGM背景音乐，你也可以这个功能当成添加配音音频来使用。  
 
-![界面截图](https://github.com/kjzysjk/myshudan/blob/main/case1.jpg)  
+![界面截图](https://github.com/kjzysjk/myshudan/blob/main/case2.jpg)  
 
 ## 开发计划
 - 开发使用图片素材
