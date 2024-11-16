@@ -6,7 +6,7 @@
 ![界面截图](https://github.com/kjzysjk/myshudan/blob/main/case2.jpg)  
 
 ## 开发计划
-- 开发使用图片素材
+- 开发使用图片素材 （完成）
 - 开发使用文本+图片模板制作书单页画面
 - 开发对每个画面单独设置配音音频，或对每个画面使用配音文本生成配音
 
@@ -25,7 +25,7 @@
 ## 直接使用整合包
 我们已制作相应版本的软件windows整合包，下载解压缩后，运行 myshudan.exe 可直接打开软件使用。  
 使用整合包，无需环境部署。  
-整合包  <https://github.com/kjzysjk/myshudan/releases/download/v1.10/myshudan_v1.10.7z>  
+整合包  <https://github.com/kjzysjk/myshudan/releases/download/v1.11/myshudan_v1.11e.7z>  
 
 **不论是代码开发还是直接使用整合包，电脑必须安装有office或wps。**  
 
