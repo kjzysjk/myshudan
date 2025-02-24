@@ -25,7 +25,7 @@
 ## 直接使用整合包
 我们已制作相应版本的软件windows整合包，下载解压缩后，运行 myshudan.exe 可直接打开软件使用。  
 使用整合包，无需环境部署。  
-整合包  <https://github.com/kjzysjk/myshudan/releases/download/v1.11/myshudan_v1.11e.7z>  
+整合包  <https://github.com/kjzysjk/myshudan/releases/download/1.21/myshudan1.21.zip>  
 
 **不论是代码开发还是直接使用整合包，电脑必须安装有office或wps。**  
 
@@ -43,3 +43,7 @@ ffmpeg-concat是ffmpeg-gl-transition的另一个衍生物，
 ## 声明
 作者水平有限，不完美之处敬请包容。  
 仅供个人学习研究，软件不得用于其它用途。  
+
+## 变更提示
+老程序员为了生存，在1.10之后版本，差异化一个专业版，只需赞助一次就能永久激活专业版本！
+如果您用不到专业版的功能，仍旧可以一直使用现有版本。
